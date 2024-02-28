@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "go",
+			"request": "launch",
+			"name": "move",
+			"program": "${workspaceFolder}",
+      "args": [
+        "move",
+        "up"
+      ]
+		}
+	]
+}
